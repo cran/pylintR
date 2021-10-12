@@ -1,0 +1,13 @@
+bd0c1093abd946e03bd1d0bd10489485 *DESCRIPTION
+170c8d7007e8b5146b70e77d0eacd55b *NAMESPACE
+63093730d315540e8e84991317a78053 *NEWS.md
+185724864b69b782e54fafd116c770f8 *R/internal.R
+e22cfe8e05d385abd1865e6f6becd39e *R/pylintR.R
+e311a755ee02139c33d146fb46e534a2 *R/pylintRaddin.R
+c9e5506f4edac747f5afd27a5a953e55 *inst/htmlwidgets/pylintR.js
+517421f7504b3fd08044096ccc91edf6 *inst/htmlwidgets/pylintR.yaml
+5723961f874ea89936149f55377d40be *inst/htmlwidgets/pylintRstyle.css
+3830a10ea19b7318216e0afb6948e35c *inst/rstudio/addins.dcf
+07b13cd6a1a865afd0ff593ba73dc77d *inst/sample_code.py
+675714b9892f6522e2787f26078cde96 *man/pylint.Rd
+e2a995ea4ae2dd6bbe55da118bd65af9 *man/pylintR-shiny.Rd

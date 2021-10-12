@@ -1,0 +1,5 @@
+dependencies:
+ - name: pylintRcss
+   version: 0.1.0
+   src: htmlwidgets
+   stylesheet: pylintRstyle.css
